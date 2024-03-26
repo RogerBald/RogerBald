@@ -1,4 +1,21 @@
-### Hi there 👋
+## *Programador Fullstack*
+Olá! Sou um programador fullstack fascinado por criar soluções inovadoras e funcionais. Minha jornada na programação começou em 2022, quando resolvi sair de Bagé/RS em busca de um sonho, que era me tornar um programador. No ano de 2023, comecei minha graduação de Análise e Desenvolvimento de Sistemas na Faculdade Cesusc em Florianópolis/SC. Desde então, venho desenvolvendo minhas habilidades enquanto trabalho criando aplicativos e sistemas. Adoro desafios e aprender constantemente, o que no decorrer do meu curso, tenho tido muito dessas expericências. 
+
+### Habilidades
+
+- **Linguagens de Programação:** JavaScript, Python, HTML5, CSS
+- **Frameworks Frontend:** React.js, React Native
+- **Frameworks Backend:** Node.js, Express.js
+- **Banco de Dados:** MongoDB, MySQL, SQL Server
+- **Ferramentas de Controle de Versão:** GitHub
+- **Metodologias de Desenvolvimento:** Agile, Scrum, Kanban
+
+#### Contato
+
+- **Email:** rvbald@hotmail.com
+- **LinkedIn:** [Róger Bald](www.linkedin.com/in/róger-bald-3610b32a8)
+
+Sinta-se à vontade para entrar em contato comigo para discutir colaborações, oportunidades de estágios, trabalho ou apenas para trocar ideias sobre tecnologia!
 
 <!--
 **RogerBald/RogerBald** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
