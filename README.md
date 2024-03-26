@@ -13,7 +13,7 @@ Olá! Sou um programador fullstack fascinado por criar soluções inovadoras e f
 #### Contato
 
 - **Email:** rvbald@hotmail.com
-- **LinkedIn:** [Róger Bald](www.linkedin.com/in/róger-bald-3610b32a8)
+- **LinkedIn:** [Róger Bald](https://www.linkedin.com/in/r%C3%B3ger-bald/)
 
 Sinta-se à vontade para entrar em contato comigo para discutir colaborações, oportunidades de estágios, trabalho ou apenas para trocar ideias sobre tecnologia!
 
