@@ -7,6 +7,7 @@ Olá! Sou um programador fullstack fascinado por criar soluções inovadoras e f
 - **Frameworks Frontend:** React.js, React Native
 - **Frameworks Backend:** Node.js, Express.js
 - **Banco de Dados:** MongoDB, MySQL, SQL Server
+- **Análise de Dados e Visualização:** NumPy, Pandas, Matplotlib, Seaborn, Power BI
 - **Ferramentas de Controle de Versão:** GitHub
 - **Metodologias de Desenvolvimento:** Agile, Scrum, Kanban
 
